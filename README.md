@@ -33,4 +33,14 @@ To get started with the Hinglish translator,
 ## Sample Output
 <img width="698" height ="90" alt="Hinglish output-1" src="https://github.com/FozanAzhar/English-to-Hinglish-translation/assets/95569589/dfe3a42c-d54e-4249-8d58-d2176f4db34d">
 
+## Evaluating Model Performance
+
+To evaluate the model's performance, you can use a variety of metrics depending on the specific use case.
+
+- <b>Manual Evaluation:</b> Translate a set of English sentences to Hinglish and manually review the translations. Evaluate the quality of translations, correctness, and fluency.
+
+- <b>BLEU Score:</b> Calculate the BLEU (Bilingual Evaluation Understudy) score to measure the similarity between the generated Hinglish text and reference translations. You can use NLTK's `nltk.translate.bleu_score` for this purpose.
+
+- <b>Domain-specific Evaluation:</b> If the translation task is domain-specific (e.g., OpeninApp for Content creators), evaluate the model's performance within that specific domain.
+
 
