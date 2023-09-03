@@ -8,7 +8,7 @@ To get started with the Hinglish translator,
    ```bash
    https://github.com/FozanAzhar/English-to-Hinglish-translation.git
    ```
-- Install the required packages mentioned in the installation section.
+- Install the required packages mentioned below.
 
   `pip install transformers`
   `pip install nltk`
